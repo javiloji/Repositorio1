@@ -12,7 +12,10 @@ import java.io.InputStreamReader;
  * Permite lectura desde teclado
  */
 
-
+/**
+*	Hey que pasa primo
+*
+*/
  
 public class Teclado {
 
