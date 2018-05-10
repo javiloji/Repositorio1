@@ -30,6 +30,9 @@ public class Teclado {
 		}
 		return caracter;
 	}
+	/**
+	*comentario de prueba
+	*/
 
 	/**
 	 * Lee un carácter del teclado
